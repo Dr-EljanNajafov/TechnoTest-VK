@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>TechnoTest-Yandex</artifactId>
+    <artifactId>TechnoTest-VK</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>TechnoTest Yandex</name>
     <description>TechnoTest Yandex</description>
